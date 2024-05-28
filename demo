@@ -1,4 +1,8 @@
 Hello World this is test 1 
+<<<<<<< HEAD
 
 Hello world this is test 2
 
+=======
+Hello world this is test 2
+>>>>>>> origin/main
